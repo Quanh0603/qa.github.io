@@ -1,2 +1,0 @@
-# qa.github.io
-GG
